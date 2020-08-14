@@ -12,4 +12,10 @@ Projects here are just for fun
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DakshVV&layout=compact&theme=radical)
 
 
+![Dynamic name](https://github-readme-stats.vercel.app/api?username=DakshVV&show_icons=true&theme=radical)
+
+
 ![Profile views](https://gpvc.arturio.dev/DakshVV)  
+
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/aryanvikash/)
