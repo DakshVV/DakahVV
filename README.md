@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Daksh
 #### I am noob
-![I am noob](https://i.gifer.com/5eKX.gif)
+![I am noob](https://i.ibb.co/4MCX1Nh/5eKX.gif)
 
 Projects here are just for fun
 
